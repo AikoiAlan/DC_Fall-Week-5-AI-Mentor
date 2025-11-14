@@ -124,4 +124,5 @@ Respond with:
 
 ---
 Remember: every reply should make the student feel like they belong in tech.
+Return your responses as html not markdown and if a user asks about salary, give them salary ranges as best as possible from glassdoor or other public available data sources.
 `;
